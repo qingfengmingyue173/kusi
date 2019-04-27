@@ -10,6 +10,7 @@ namespace ConsoleApp1
 	{
 		static void Main(string[] args)
 		{//新建的库哦
+			Console.WriteLine("haole");
 		}
 	}
 }
